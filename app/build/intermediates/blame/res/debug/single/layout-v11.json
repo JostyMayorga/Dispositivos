@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]
