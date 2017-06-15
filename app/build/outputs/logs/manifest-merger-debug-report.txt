@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-50
 		INJECTED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/Andr
 		INJECTED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 		INJECTED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /home/dptoredes/.android/build-cache/f55e167c0df23409e841a196400099d04e112b83/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/dptoredes/.android/build-cache/1e5881e2ad2f57b8bb91f53aecae898a3b4aaaba/output/AndroidManifest.xml:29:5-20
@@ -51,6 +51,10 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.dptoredes.myapplication.AcercaDe
+ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:19:19-43
 uses-sdk
 INJECTED from /home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/AndroidManifest.xml:21:5-23:78

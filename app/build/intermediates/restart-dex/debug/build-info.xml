@@ -6,31 +6,34 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1496320610538"
+    timestamp="1497532818337"
     token="2581041538938679223"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2469" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="219" />
     <task
         name="verifier"
-        duration="0" />
+        duration="72" />
 
+    <artifact
+        location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
         location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
         location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -56,22 +59,22 @@
     <artifact
         location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
-    <artifact
-        location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1496320610538"
+        timestamp="1497532818337"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
             location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -97,9 +100,6 @@
         <artifact
             location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
-        <artifact
-            location="/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

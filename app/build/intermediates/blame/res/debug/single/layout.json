@@ -112,6 +112,10 @@
         "source": "/home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
+        "merged": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_acerca_de.xml",
+        "source": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_acerca_de.xml"
+    },
+    {
         "merged": "/home/dptoredes/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
         "source": "/home/dptoredes/.android/build-cache/ebe344b7a4568b3b4f3cea6ed2e43c7b0f5eda78/output/res/layout/notification_action.xml"
     },
